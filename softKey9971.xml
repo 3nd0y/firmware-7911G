@@ -1,0 +1,40 @@
+<softKeyCfg>
+  <versionStamp>a92f70b3-6320-46f1-bf5e-bc9f59b66daf</versionStamp>
+  <typeSoftKey>
+    <softKeyDef keyID="Undefined">
+      <tag>0</tag>
+      <eventID>0</eventID>
+      <helpID>0</helpID>
+    </softKeyDef>
+    <softKeyDef keyID="Redial">
+      <tag>1</tag>
+      <eventID>1</eventID>
+      <helpID>301</helpID>
+    </softKeyDef>
+    <softKeyDef keyID="NewCall">
+      <tag>2</tag>
+      <eventID>2</eventID>
+      <helpID>302</helpID>
+    </softKeyDef>
+    <softKeyDef keyID="Hold">
+      <tag>3</tag>
+      <eventID>3</eventID>
+      <helpID>303</helpID>
+    </softKeyDef>
+    <softKeyDef keyID="Transfer">
+      <tag>4</tag>
+      <eventID>4</eventID>
+      <helpID>304</helpID>
+    </softKeyDef>
+    <softKeyDef keyID="EndCall">
+      <tag>9</tag>
+      <eventID>9</eventID>
+      <helpID>309</helpID>
+    </softKeyDef>
+    <softKeyDef keyID="Answer">
+      <tag>11</tag>
+      <eventID>11</eventID>
+      <helpID>311</helpID>
+    </softKeyDef>
+  </typeSoftKey>
+</softKeyCfg>

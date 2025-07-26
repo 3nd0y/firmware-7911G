@@ -1,0 +1,17 @@
+<Default>
+  <callManagerGroup>
+        <members>
+           <member priority="0">
+              <callManager>
+                 <ports>
+                    <ethernetPhonePort>2000</ethernetPhonePort>
+                    <sipPort>42872</sipPort>
+                    <securedSipPort>5061</securedSipPort>
+                 </ports>
+                 <processNodeName>192.168.1.1</processNodeName>
+              </callManager>
+           </member>
+        </members>
+     </callManagerGroup>
+  <loadInformation>sip9971.9-4-2SR1-1</loadInformation>
+</Default>
