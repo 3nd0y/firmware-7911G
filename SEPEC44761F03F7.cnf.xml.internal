@@ -29,7 +29,7 @@
                     <sipPort>5060</sipPort>
                     <securedSipPort>5061</securedSipPort>
                  </ports>
-                 <processNodeName>168.110.221.3</processNodeName>
+                 <processNodeName>192.168.1.1</processNodeName>
               </callManager>
            </member>
         </members>
@@ -140,8 +140,8 @@
         <backupProxyPort>5060</backupProxyPort>
         <emergencyProxy></emergencyProxy>
         <emergencyProxyPort>5060</emergencyProxyPort>
-        <outboundProxy>168.110.221.3</outboundProxy>
-        <outboundProxyPort>5060</outboundProxyPort>
+        <outboundProxy></outboundProxy>
+        <outboundProxyPort></outboundProxyPort>
         <registerWithProxy>true</registerWithProxy>
      </sipProxies>
      <sipCallFeatures>
@@ -223,7 +223,7 @@
            <sharedLine>false</sharedLine>
            <messageWaitingLampPolicy>3</messageWaitingLampPolicy>
 		   <messageWaitingAMWI>1</messageWaitingAMWI>
-           <messagesNumber>9910</messagesNumber>
+           <messagesNumber>*97</messagesNumber>
            <ringSettingIdle>4</ringSettingIdle>
            <ringSettingActive>5</ringSettingActive>
            <forwardCallInfoDisplay>
